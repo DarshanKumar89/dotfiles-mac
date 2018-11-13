@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/DarshanKumar89/dotfile-mac/master/logo.png" width="250" height="250"/></p>
+<p align="center"><img src="https://github.com/DarshanKumar89/dotfiles-mac/blob/master/logo.png" width="250" height="250"/></p>
 
 # dotfiles
 
@@ -27,11 +27,11 @@ npm config set init.author.name "Your name" ## Replace it with your name
 npm config set init.author.email "Your email id" ## Replace it with your email id
 ```
 
-<img src="https://raw.githubusercontent.com/DarshanKumar89/dotfile-mac/master/terminal.png" alt="screenshot"/>
+<img src="https://github.com/DarshanKumar89/dotfiles-mac/blob/master/terminal.png" alt="screenshot"/>
 
 ## Features
 
-* Get custom [zsh theme (dracula), colors & font](https://raw.githubusercontent.com/DarshanKumar89/dotfile-mac/master/terminal.png) for terminal.
+* Get custom [zsh theme (dracula), colors & font](https://github.com/DarshanKumar89/dotfiles-mac/blob/master/terminal.png) for terminal.
 
 * Set [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) as your default in terminal.
 
