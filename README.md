@@ -27,11 +27,11 @@ npm config set init.author.name "Your name" ## Replace it with your name
 npm config set init.author.email "Your email id" ## Replace it with your email id
 ```
 
-<img src="https://raw.githubusercontent.com/gokulkrishh/dotfiles/master/terminal.jpg" alt="screenshot"/>
+<img src="https://raw.githubusercontent.com/DarshanKumar89/dotfile-mac/master/terminal.png" alt="screenshot"/>
 
 ## Features
 
-* Get custom [zsh theme (dracula), colors & font](https://raw.githubusercontent.com/gokulkrishh/dotfiles/master/terminal.jpg) for terminal.
+* Get custom [zsh theme (dracula), colors & font](https://raw.githubusercontent.com/DarshanKumar89/dotfile-mac/master/terminal.png) for terminal.
 
 * Set [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) as your default in terminal.
 
