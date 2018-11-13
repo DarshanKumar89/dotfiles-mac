@@ -1,0 +1,23 @@
+# Custom git ignore file
+
+## Unwanted hidden files
+.DS_Store
+*.swp
+*.lock
+profile
+
+## Compiled Python files
+*.pyc
+
+## Folder view configuration files
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+## Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+## END

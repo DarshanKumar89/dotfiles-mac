@@ -1,0 +1,74 @@
+{
+  "editor.fontFamily": "'Operator Mono', Consolas, Monaco, monospace",
+  "editor.tabSize": 2,
+  "editor.lineHeight": 25,
+  "editor.fontLigatures": true,
+  "window.zoomLevel": 0,
+  "editor.letterSpacing": 0.5,
+  "editor.fontSize": 11,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "typescript.check.npmIsInstalled": false,
+  "workbench.colorCustomizations": {
+    "activityBarBadge.background": "#80CBC4",
+    "list.activeSelectionForeground": "#80CBC4",
+    "list.inactiveSelectionForeground": "#80CBC4",
+    "list.highlightForeground": "#80CBC4",
+    "scrollbarSlider.activeBackground": "#80CBC450",
+    "editorSuggestWidget.highlightForeground": "#80CBC4",
+    "textLink.foreground": "#80CBC4",
+    "progressBar.background": "#80CBC4",
+    "pickerGroup.foreground": "#80CBC4",
+    "tab.activeBorder": "#80CBC4",
+    "notificationLink.foreground": "#80CBC4",
+    "editorIndentGuide.activeBackground": "#808080"
+  },
+  "workbench.activityBar.visible": true,
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "workbench.sideBar.location": "left",
+  "files.insertFinalNewline": true,
+  "editor.autoIndent": true,
+  "search.exclude": {
+    "**/*.map": true,
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/build": true,
+    "**/public": true
+  },
+  "files.exclude": {
+    "**/node_modules/": true
+  },
+  "window.restoreFullscreen": true,
+  "window.newWindowDimensions": "maximized",
+  "markdown.preview.breaks": true,
+  "git.enableSmartCommit": true,
+  "javascript.validate.enable": false,
+  "workbench.startupEditor": "none",
+  "files.trimTrailingWhitespace": true,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Cobalt2",
+  "editor.snippetSuggestions": "top",
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.formatOnSave": true,
+  "prettier.printWidth": 140,
+  "prettier.singleQuote": false,
+  "prettier.useTabs": true,
+  "files.autoSave": "off",
+  "git.autofetch": true,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": false,
+  "editor.matchBrackets": false,
+  "explorer.decorations.badges": false,
+  "editor.fontWeight": "400",
+  "prettier.eslintIntegration": true,
+  "editor.cursorWidth": 2,
+  "editor.renderWhitespace": "all"
+}
